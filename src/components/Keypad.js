@@ -8,7 +8,7 @@ function Keypad() {
 
   return (
     <div>
-      {/* Render an input field of type "password" */}
+      {/* .Render an input field of type "password" */}
       <input
         type="password"
         onChange={handleChange} 
